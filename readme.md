@@ -36,10 +36,27 @@ yarn test
 
 ---
 
-## Demonstração
+## Insomnia
+
+### Você pode importar as rotas e testar a api manualmente utilizando o insomnia. 
+
+``` 
+#IMPORTAR ARQUIVO DA PASTA
+
+.github/Insomnia_2020-04-09.json
+
+``` 
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/davidfaria/bootcamp-11-desafio-conceitos-nodejs/.github/demo.gif">
+<img src="https://raw.githubusercontent.com/davidfaria/bootcamp-11-desafio-conceitos-nodejs/master/.github/insomnia.png">
+</h1>
+
+---
+
+## Test Jest
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/davidfaria/bootcamp-11-desafio-conceitos-nodejs/master/.github/demo.gif">
 </h1>
 
 ---
